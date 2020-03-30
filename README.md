@@ -1,4 +1,4 @@
-# Beautiful-css 好看的css文件
+# Beautiful-css 让你的md更好看的css文件
 原创和修改了一些让你的md赏心悦目的css文件，丰富你的Typora主题。可将文件置于Typora的主题文件夹下，重启Typora即可选择相应主题。
 ### colorful.css
 大胆采用红绿配色，完美诠释明快与和谐。居中的标题、彩色的加粗斜线，带给你全新的汉语markdown体验。表格设计是这个css的一大亮点，为你的笔记或者博客增光添彩
